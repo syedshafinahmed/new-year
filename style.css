@@ -91,6 +91,7 @@ img {
     font-size: 59px;
     font-weight: bold;
     text-align: center;
+    margin-top: 80px;
     /* width: 256px;
     height: 72px; */
 }
@@ -109,6 +110,13 @@ img {
     text-align: center;
     font-weight: bold;
     margin-top: 2px;
+}
+
+.ch{
+    width: 536px;
+    height: 333px;
+    margin: 0 auto;
+    display: block;
 }
 
 
