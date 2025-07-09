@@ -152,11 +152,12 @@ img {
     font-weight: bold;
     text-align: center;
     margin-top: 80px;
+    margin-bottom: 0px;
     /* width: 256px;
     height: 72px; */
 }
 
-.holiday {
+.holiday1 {
     color: #FF0000;
     font-size: 16px;
     font-weight: 700;
@@ -257,12 +258,18 @@ img {
     font-size: 20px;
     color: #070211;
     font-weight: 300;
+    text-align: center;
 }
 
 .fun{
     font-size: 24px;
     font-weight: 600;
     color: #070211;
+    text-align: center;
+}
+
+.heda{
+    text-align: center;
 }
 
 .holiday{
