@@ -178,3 +178,20 @@ img {
     margin: 0 auto;
     display: block;
 }
+
+.hudatext{
+    text-align: center;
+    margin-top: 91px;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.btn{
+    background-color: #FF0000;
+    color: #FFFFFF;
+    width: 112px;
+    height: 38px;
+    border: none;
+    border-radius: 8px;
+    margin-top: 32px;
+}
