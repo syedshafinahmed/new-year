@@ -7,6 +7,13 @@
         "wdth" 100;
 }
 
+
+.inter-normal {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
 .header-1 {
     font-size: 22px;
     color: #FFFFFF;
@@ -74,4 +81,35 @@ img {
     background: linear-gradient(to bottom, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0));
     pointer-events: none;
 }
+
+/* .off{
+    display: flex;
+    justify-content: center;
+} */
+.text{
+    color: #FF0000;
+    font-size: 59px;
+    font-weight: bold;
+    text-align: center;
+    /* width: 256px;
+    height: 72px; */
+}
+
+.holiday{
+    color: #FF0000;
+    font-size: 16px;
+    font-weight: 700;
+    text-align: center;
+    margin-top: 32px;
+}
+
+.cat{
+    color: #070211;
+    font-size: 32px;
+    text-align: center;
+    font-weight: bold;
+    margin-top: 2px;
+}
+
+
 
