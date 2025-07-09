@@ -250,40 +250,42 @@ img {
     height: 94px;
 }
 
-.left, .right{
+.left,
+.right {
     margin-top: 80px;
 }
 
-.dolor3{
+.dolor3 {
     font-size: 20px;
     color: #070211;
     font-weight: 300;
     text-align: center;
 }
 
-.fun{
+.fun {
     font-size: 24px;
     font-weight: 600;
     color: #070211;
     text-align: center;
 }
 
-.heda{
+.heda {
     text-align: center;
 }
 
-.holiday{
-    margin: 120px 262px 64px 262px ;
+.holiday {
+    margin: 120px 262px 64px 262px;
 }
 
 
-.komola{
+.komola {
     align-items: center;
     display: flex;
     justify-content: center;
     margin: 0;
 }
-.kom{
+
+.kom {
     width: 880px;
     height: 153px;
     position: relative;
@@ -295,7 +297,7 @@ img {
     /* margin: 200px 94px 50px 94px; */
 }
 
-.dis{
+.dis {
     width: 204px;
     height: 204px;
     right: 20%;
@@ -305,11 +307,11 @@ img {
     /* top: 0; */
 }
 
-.gift{
+.gift {
     width: 532px;
     height: 442px;
     position: absolute;
     margin-top: 200px;
-    margin-left:150px;
-    left: 8%;   
+    margin-left: 150px;
+    left: 8%;
 }
