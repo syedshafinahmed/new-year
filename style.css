@@ -252,3 +252,21 @@ img {
 .left, .right{
     margin-top: 80px;
 }
+
+.dolor3{
+    font-size: 20px;
+    color: #070211;
+    font-weight: 300;
+}
+
+.fun{
+    font-size: 24px;
+    font-weight: 600;
+    color: #070211;
+}
+
+.holiday{
+    margin-left: 262px;
+    margin-right: 262px;
+    margin-top: 120px;
+}
