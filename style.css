@@ -366,3 +366,60 @@ img {
     padding-left: 80px;
     padding-right: 80px;
 }
+
+.mail {
+    width: 150px;
+    height: 150px;
+    margin: 0 auto;
+    margin-top: 67px;
+}
+
+.subscribe {
+    margin: 0 auto;
+    display: flex;
+    /* justify-content: center;
+    align-items: center;
+    margin: 0; */
+    flex-direction: column;
+}
+
+.posh {
+    border-radius: 0px 50px 50px 0px;
+    margin-left: 800px;
+    margin-top: 48px;
+}
+
+.logo {
+    width: 64px;
+    height: 64px;
+}
+
+.footer {
+    /* display: flex; */
+    background-color: #070211;
+}
+
+.fl1 {
+    display: flex;
+    justify-content: space-around;
+    color: #FFFFFF;
+    margin: 100px;
+}
+
+.fl {
+    color: #FFFFFF;
+    display: flex;
+    justify-content: space-around;
+    margin: 100px;
+    text-align: center;
+    /* margin-bottom: 120px; */
+}
+
+.fm {
+    /* margin: 0 auto; */
+    display: flex;
+    justify-content: center;
+    gap: 12px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
